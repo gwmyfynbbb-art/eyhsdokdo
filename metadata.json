@@ -1,0 +1,6 @@
+{
+  "name": "독도 주권 평화 교육 플랫폼",
+  "description": "중·고등용 역사 및 지리 융합 수업을 위한 독도 영토 주권 교육 종합 교재 인터랙티브 웹 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
